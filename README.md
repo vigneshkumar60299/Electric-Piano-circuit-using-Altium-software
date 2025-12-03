@@ -60,9 +60,12 @@ This electric piano circuit is a simple and effective demonstration of electroni
  
 # EXPECTED OUTPUT:
 ## Schematic diagram:
- 
+<img width="1002" height="515" alt="Screenshot 2025-11-28 205557" src="https://github.com/user-attachments/assets/2c469796-32ae-4a90-b9d2-cda766b5936d" />
+
+
 ## Layout diagram:
- 
+ <img width="1032" height="463" alt="image" src="https://github.com/user-attachments/assets/c74756f4-704a-42d1-9169-fe627b65ffdd" />
+
 # RESULT:
 Thus, the schematic and PCB layout for the Electric Piano circuit has been successfully designed using Altium software.
 
